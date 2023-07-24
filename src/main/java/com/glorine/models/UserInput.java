@@ -30,4 +30,4 @@ public class UserInput {
         this.key = key;
     }
 }
-}
+

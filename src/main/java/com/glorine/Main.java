@@ -1,6 +1,8 @@
 package com.glorine;
 
 import java.util.Scanner;
+import com.glorine.models.UserInput;
+import com.glorine.util.Checks;
 
 
 public class Main {

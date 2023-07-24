@@ -1,5 +1,5 @@
 package com.glorine.util;
-import com.glorine.models.Use
+import com.glorine.models.UserInput;
 
 public class Checks {
 
@@ -25,4 +25,4 @@ public class Checks {
         }
 
     }
-}
+
