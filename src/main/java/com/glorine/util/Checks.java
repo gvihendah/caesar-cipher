@@ -1,4 +1,5 @@
 package com.glorine.util;
+import com.glorine.models.Use
 
 public class Checks {
 
