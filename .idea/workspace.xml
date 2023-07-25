@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7be44dcd-fcad-4685-a36d-64128396eb38" name="Changes" comment="added more files">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="7be44dcd-fcad-4685-a36d-64128396eb38" name="Changes" comment="changes made to Main.java file">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/glorine/services/CaesarCipher.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/glorine/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/glorine/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/glorine/models/UserInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/glorine/models/UserInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/glorine/util/Checks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/glorine/util/Checks.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +96,21 @@
       <option name="project" value="LOCAL" />
       <updated>1690242504500</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="changes made to Main.java file">
+      <created>1690242836342</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1690242836342</updated>
+    </task>
+    <task id="LOCAL-00005" summary="changes made to Main.java file">
+      <created>1690242883542</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1690242883542</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,6 +129,7 @@
     <MESSAGE value="new files added to project caesar cipher" />
     <MESSAGE value="new packages added" />
     <MESSAGE value="added more files" />
-    <option name="LAST_COMMIT_MESSAGE" value="added more files" />
+    <MESSAGE value="changes made to Main.java file" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes made to Main.java file" />
   </component>
 </project>
