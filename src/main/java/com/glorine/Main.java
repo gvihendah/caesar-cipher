@@ -3,6 +3,7 @@ package com.glorine;
 import java.util.Scanner;
 import com.glorine.models.UserInput;
 import com.glorine.util.Checks;
+import com.glorine.services.CaesarCipher;
 
 
 public class Main {
