@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7be44dcd-fcad-4685-a36d-64128396eb38" name="Changes" comment="changes made to Main.java file">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/glorine/services/CaesarCipherTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="7be44dcd-fcad-4685-a36d-64128396eb38" name="Changes" comment="added tests for encoding and decoding method.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/glorine/util/ChecksTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/glorine/util/ChecksTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +28,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2T2PtlHQUtTexOzfZ4vMMTFZoxC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -54,6 +57,7 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.glorine.util" />
       <recent name="com.glorine.services" />
     </key>
   </component>
@@ -121,7 +125,28 @@
       <option name="project" value="LOCAL" />
       <updated>1690242883542</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="added tests for encoding and decoding method.">
+      <created>1690413351629</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1690413351629</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added tests for encoding and decoding method.">
+      <created>1690413386157</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1690413386157</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added tests for encoding and decoding method.">
+      <created>1690415124288</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1690415124288</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -141,6 +166,7 @@
     <MESSAGE value="new packages added" />
     <MESSAGE value="added more files" />
     <MESSAGE value="changes made to Main.java file" />
-    <option name="LAST_COMMIT_MESSAGE" value="changes made to Main.java file" />
+    <MESSAGE value="added tests for encoding and decoding method." />
+    <option name="LAST_COMMIT_MESSAGE" value="added tests for encoding and decoding method." />
   </component>
 </project>
