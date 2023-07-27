@@ -7,7 +7,7 @@ import static org.junit.jupiter.api.Assertions.*;
 class CaesarCipherTest {
 
     @Test
-    void encode() {
+    void testEncodeReturnsTrue() {
         String plainText = "yes";
         String cipherText = "agu";
         int key = 2;
@@ -17,7 +17,7 @@ class CaesarCipherTest {
     }
 
     @Test
-    void decode() {
+    void testDecodereturnsTrue() {
         String cipherText = "agu";
         String plainText = "yes";
         int key = 2;
