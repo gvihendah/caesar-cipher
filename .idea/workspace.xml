@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7be44dcd-fcad-4685-a36d-64128396eb38" name="Changes" comment="added tests for encoding and decoding method.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="7be44dcd-fcad-4685-a36d-64128396eb38" name="Changes" comment="updated README.md file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -153,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690415612334</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="updated README.md file">
+      <created>1690504705091</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1690504705091</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -174,6 +178,7 @@
     <MESSAGE value="added more files" />
     <MESSAGE value="changes made to Main.java file" />
     <MESSAGE value="added tests for encoding and decoding method." />
-    <option name="LAST_COMMIT_MESSAGE" value="added tests for encoding and decoding method." />
+    <MESSAGE value="updated README.md file" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated README.md file" />
   </component>
 </project>
