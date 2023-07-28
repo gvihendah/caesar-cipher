@@ -1,7 +1,6 @@
 package com.glorine.models;
 
 public class UserInput {
-
     private String operation;
     private String message;
     private int key;

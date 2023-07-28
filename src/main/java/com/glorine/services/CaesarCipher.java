@@ -4,7 +4,6 @@ import com.glorine.models.UserInput;
 
 
 public class CaesarCipher {
-
     UserInput userInput = new UserInput();
     String message = userInput.getMessage();
     int key = userInput.getKey();
